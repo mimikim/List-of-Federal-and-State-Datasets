@@ -1,5 +1,5 @@
 # A List of Federal and State Datasets and Statistics :us:
-A list of officially verified datasets and statistics on a federal and state level for the United States. Data is available in a variety of formats (eg: Excel, CSV, APIs, PDFs, etc).
+A list of officially verified datasets and statistics on a federal and state level for the United States. Data is available in a variety of formats (eg: Excel, CSV, APIs, PDFs, GIS Shapefiles, etc).
 
 ## Federal Government Level
 ### **USA.gov** (https://www.usa.gov/statistics)
@@ -65,3 +65,9 @@ Just some datasets that I found interesting
 
 
 ## State Government Level
+
+### Maryland
+- Maryland Open Data (https://data.maryland.gov)
+- Baltimore Open Data (https://data.baltimorecity.gov)
+- Baltimore Neighborhood Indicators Alliance - Jacob France Institute (http://bniajfi.org) 
+
