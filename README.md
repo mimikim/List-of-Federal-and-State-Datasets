@@ -71,3 +71,5 @@ Just some datasets that I found interesting
 - Baltimore Open Data (https://data.baltimorecity.gov)
 - Baltimore Neighborhood Indicators Alliance - Jacob France Institute (http://bniajfi.org) 
 
+### New York
+- New York Open Data (https://data.ny.gov)
