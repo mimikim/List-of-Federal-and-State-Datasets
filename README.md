@@ -16,6 +16,10 @@ Official website for US census data.
 
 ### **Data.gov** (http://www.bjs.gov)
 Data.gov is the home of the U.S. Government's open data. Find Federal, state, and local data, tools, and resources to conduct research, build apps, design data visualizations, and more. 
+- :key: You must register for a free key to use the API: https://api.data.gov/signup :key: 
+
+### **Code.gov** (https://code.gov)
+Code.gov is a beta platform to display all of the government's open source projects
 
 ### **FBI Uniform Crime Reporting (UCR)** (https://ucr.fbi.gov/)
 The Uniform Crime Reporting (UCR) Program has been the starting place for law enforcement executives, students of criminal justice, researchers, members of the media, and the public at large seeking information on crime in the nation.
@@ -37,6 +41,12 @@ The Bureau of Transportation Statistics provides data on airline on-time perform
 
 ### **DAP Public Dashboard** (https://analytics.usa.gov)
 The DAP Public Dashboard provides a window into how people are interacting with the government online.
+
+### **Department of Commerce** (https://www.commerce.gov)
+The Department of Commerce is the Cabinent department of the government dedicated to promoting economic growth.
+- Three APIs are available: /api/blogs, /api/news, and /api/image
+- Full developer documentation: https://www.commerce.gov/page/api-documentation-commercegov
+- :key: You must register for a free key to use the API :key:
 
 ### **Economic Research Service** (http://www.ers.usda.gov)
 The Economic Research Service informs public and private decision making on economic and policy issues related to agriculture, food, the environment, and rural development.  
