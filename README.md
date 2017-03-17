@@ -14,7 +14,7 @@ Official website for US census data.
 - 2010 Census Data: https://www.census.gov/2010census/
 - All Survey Data: https://www.census.gov/programs-surveys/are-you-in-a-survey/survey-list.html
 
-### **Data.gov** (http://www.bjs.gov)
+### **Data.gov** (http://www.data.gov)
 Data.gov is the home of the U.S. Government's open data. Find Federal, state, and local data, tools, and resources to conduct research, build apps, design data visualizations, and more. 
 - :key: You must register for a free key to use the API: https://api.data.gov/signup :key: 
 - All Available Datasets: https://catalog.data.gov/dataset
