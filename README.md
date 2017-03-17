@@ -8,7 +8,7 @@ Official guide to government information and services.
 ### **Census.gov** (https://www.census.gov)
 Official website for US census data.
 - Data available: https://www.census.gov/data.html
-- Available APIs: https://www.census.gov/data/developers/data-sets.html
+- All Available APIs: https://www.census.gov/data/developers/data-sets.html
 - :key: You must register for a free key to use the API: http://api.census.gov/data/key_signup.html :key: 
 - Census Fact Finder: https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml
 - 2010 Census Data: https://www.census.gov/2010census/
@@ -17,6 +17,8 @@ Official website for US census data.
 ### **Data.gov** (http://www.bjs.gov)
 Data.gov is the home of the U.S. Government's open data. Find Federal, state, and local data, tools, and resources to conduct research, build apps, design data visualizations, and more. 
 - :key: You must register for a free key to use the API: https://api.data.gov/signup :key: 
+- All Available Datasets: https://catalog.data.gov/dataset
+  - This is a complete list of datasets across all participating Federal and State organizations, publishers, and bureaus. Many of the below listed links can be found in this catalog.
 
 ### **Code.gov** (https://code.gov)
 Code.gov is a beta platform to display all of the government's open source projects
@@ -68,6 +70,15 @@ The National Center for Science and Engineering Statistics publishes data on the
 
 ### **Office of Personnel Management** (https://www.opm.gov)
 The Office of Personnel Management provides statistics on the Federal civilian workforce through data sources such as [FedScope](https://www.opm.gov/policy-data-oversight/data-analysis-documentation/fedscope).
+
+### **Small Business Association** (https://www.sba.gov)
+The Small Business Association exists to aid, counsel, assist and protect the interests of small business concerns.
+- All Open Data Sources: https://www.sba.gov/about-sba/sba-performance/open-government/digital-sba/open-data/open-data-sources
+- API Overview: http://api.sba.gov/doc
+- U.S. City & County Web Data API: http://api.sba.gov/doc/geodata.html
+- Business Licenses & Permits API: http://api.sba.gov/doc/license_permit.html
+- Loans & Grants Search API: http://api.sba.gov/doc/loans_grants.html
+- Recommended Sites API: http://api.sba.gov/doc/rec_sites.html
 
 ### **SSA Office of Research Evaluation and Statistics** (http://www.ssa.gov/policy/about/ORES.html)
 The Social Security Administration Office of Research Evaluation and Statistics offers data on social security program benefits, payments, covered workers, and more.
