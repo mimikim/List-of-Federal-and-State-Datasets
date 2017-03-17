@@ -75,11 +75,6 @@ The Social Security Administration Office of Research Evaluation and Statistics 
 ### **IRS Statistics of Income** (http://www.irs.gov/uac/SOI-Tax-Stats-About-SOI)
 The Internal Revenue Service Statistics of Income examines tax returns to report on such things as sources of income, exemptions, use of medical savings accounts, migration and geographic data, tax information on foreign corporations controlled by U.S. parent corporations, exports, international boycotts, and investments and activities in the U.S. by foreign persons.
 
-
-#### Interesting Data Sets
-Just some datasets that I found interesting
-
-
 ## State Government Level
 
 ### Maryland
@@ -89,3 +84,6 @@ Just some datasets that I found interesting
 
 ### New York
 - New York Open Data (https://data.ny.gov)
+
+## Final Notes
+Please feel free to contribute links or improvements. This is an on-going project to help facilitate the public's access to available information! :)
