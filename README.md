@@ -14,7 +14,7 @@ Official website for US census data.
 - 2010 Census Data: https://www.census.gov/2010census/
 - All Survey Data: https://www.census.gov/programs-surveys/are-you-in-a-survey/survey-list.html
 
-### **Data.gov** (http://www.data.gov)
+### **Data.gov** (https://www.data.gov)
 Data.gov is the home of the U.S. Government's open data. Find Federal, state, and local data, tools, and resources to conduct research, build apps, design data visualizations, and more. 
 - :key: You must register for a free key to use the API: https://api.data.gov/signup :key: 
 - All Available Datasets: https://catalog.data.gov/dataset
@@ -32,13 +32,13 @@ The CDC offers an online tool called WONDER (Wide-ranging Online Data for Epidem
 ### **Bureau of Economic Analysis** (https://www.bea.gov)
 The Bureau of Economic Analysis collects information on economic indicators, national and international trade, accounts, and industry.
 
-### **Bureau of Justice Statistics** (http://www.bjs.gov)
+### **Bureau of Justice Statistics** (https://www.bjs.gov)
 The Bureau of Justice Statistics reports on justice systems, crime, criminal offenders, and victims of crime.
 
-### **Bureau of Labor Statistics** (http://www.bls.gov)
+### **Bureau of Labor Statistics** (https://www.bls.gov)
 The Bureau of Labor Statistics measures labor market activity, working conditions, and price changes in the U.S. economy.
 
-### **Bureau of Transportation Statistics** (http://www.rita.dot.gov/bts)
+### **Bureau of Transportation Statistics** (https://www.bts.gov)
 The Bureau of Transportation Statistics provides data on airline on-time performance, pirates at sea, transportation safety and availability, motorcycle trends, and more.
 
 ### **DAP Public Dashboard** (https://analytics.usa.gov)
@@ -50,22 +50,22 @@ The Department of Commerce is the Cabinent department of the government dedicate
 - Full developer documentation: https://www.commerce.gov/page/api-documentation-commercegov
 - :key: You must register for a free key to use the API :key:
 
-### **Economic Research Service** (http://www.ers.usda.gov)
+### **Economic Research Service** (https://www.ers.usda.gov)
 The Economic Research Service informs public and private decision making on economic and policy issues related to agriculture, food, the environment, and rural development.  
 
-### **Energy Information Administration** (http://www.eia.gov)
+### **Energy Information Administration** (https://www.eia.gov)
 The Energy Information Administration provides data on U.S. use of coal, natural gas, nuclear energy, renewable energy, and more.
 
-### **National Agricultural Statistical Service** (http://www.nass.usda.gov)
+### **National Agricultural Statistical Service** (https://www.nass.usda.gov)
 The National Agricultural Statistical Service researches data on food production and supply, organic sales, chemical use, demographics of U.S. producers, and more. Every five years it conducts the [Census of Agriculture](https://www.agcensus.usda.gov) that provides agricultural data for every county in the United States.
 
-### **National Center for Education Statistics** (http://nces.ed.gov)
+### **National Center for Education Statistics** (https://nces.ed.gov)
 The National Center for Education Statistics researches education in the United States. It publishes the *Digest of Education Statistics*, which includes international comparisons of students, and the annual report to Congress, *The Condition of Education*, which reports the progress of American education.
 
-### **National Center for Health Statistics** (http://www.cdc.gov/nchs)
+### **National Center for Health Statistics** (https://www.cdc.gov/nchs)
 The National Center for Health Statistics is the principal health statistics agency for improving the health of the American people.
 
-### **National Center for Science and Engineering Statistics** (http://www.nsf.gov/statistics)
+### **National Center for Science and Engineering Statistics** (https://www.nsf.gov/statistics)
 The National Center for Science and Engineering Statistics publishes data on the American science and engineering workforce and the progress of science, technology, engineering, and mathematics (STEM) education in the United States.
 
 ### **Office of Personnel Management** (https://www.opm.gov)
@@ -80,10 +80,10 @@ The Small Business Association exists to aid, counsel, assist and protect the in
 - Loans & Grants Search API: http://api.sba.gov/doc/loans_grants.html
 - Recommended Sites API: http://api.sba.gov/doc/rec_sites.html
 
-### **SSA Office of Research Evaluation and Statistics** (http://www.ssa.gov/policy/about/ORES.html)
+### **SSA Office of Research Evaluation and Statistics** (https://www.ssa.gov/policy/about/ORES.html)
 The Social Security Administration Office of Research Evaluation and Statistics offers data on social security program benefits, payments, covered workers, and more.
 
-### **IRS Statistics of Income** (http://www.irs.gov/uac/SOI-Tax-Stats-About-SOI)
+### **IRS Statistics of Income** (https://www.irs.gov/uac/soi-tax-stats-about-soi)
 The Internal Revenue Service Statistics of Income examines tax returns to report on such things as sources of income, exemptions, use of medical savings accounts, migration and geographic data, tax information on foreign corporations controlled by U.S. parent corporations, exports, international boycotts, and investments and activities in the U.S. by foreign persons.
 
 ## State Government Level
