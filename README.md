@@ -50,6 +50,9 @@ The Department of Commerce is the Cabinent department of the government dedicate
 - Full developer documentation: https://www.commerce.gov/page/api-documentation-commercegov
 - :key: You must register for a free key to use the API :key:
 
+### **Department of Education APIs** (https://usedgov.github.io)
+As a work of the United States Government, source code for this developer hub is in the public domain. 
+
 ### **Economic Research Service** (https://www.ers.usda.gov)
 The Economic Research Service informs public and private decision making on economic and policy issues related to agriculture, food, the environment, and rural development.  
 
@@ -85,6 +88,9 @@ The Social Security Administration Office of Research Evaluation and Statistics 
 
 ### **IRS Statistics of Income** (https://www.irs.gov/uac/soi-tax-stats-about-soi)
 The Internal Revenue Service Statistics of Income examines tax returns to report on such things as sources of income, exemptions, use of medical savings accounts, migration and geographic data, tax information on foreign corporations controlled by U.S. parent corporations, exports, international boycotts, and investments and activities in the U.S. by foreign persons.
+
+### **USDA Developer Resources** (https://www.usda.gov/media/digital/developer-resources)
+On USDA's Developer Resource page you can find and access featured data or web services from the Department's agencies and mission areas. This page will be updated as agencies make available new developer tools and data resources, so be sure to check back often.
 
 ## State Government Level
 
